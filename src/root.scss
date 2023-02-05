@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #e4dbed;
+  color: #492e64;
+  margin: 0;
+  font-family: "Montserrat";
+}
+
+input {
+  font-family: "Montserrat";
+}
+
+.bg-none {
+  background: none;
+}
+
+.current {
+  background: #f2eaf9 !important;
+}
+
+.active {
+  background: #492e64 !important;
+  color: #fff;
+
+  h5 {
+    color: #fff;
+  }
+}
